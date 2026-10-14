@@ -32,6 +32,7 @@ https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/0f6
 https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/23955f09813b8e027993e8c77ac9851071887b07/Coffee%20Store%20Dashboard.jpg
 https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/1d8af70232ae08b332fa9b608911a2fd56abc7d8/Coffee%20Loyalty%20Dashboard.jpg
 https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/c0fdbbbc1f0fb0fab215bcce180cecab37b5375b/Coffee%20revenue%20dashboard.jpg
+https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/f626f3f429c97bd86ff8e0b5128c4dee1f57268c/coffee%20seasonal%20dashboard.jpg
 
 
 
