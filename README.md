@@ -29,6 +29,7 @@ The analysis focuses on revenue performance, profitability, store performance, c
 To transform business data into actionable insights that support data-driven decision making.
 ## Dashboard Preview
 
+
 ## Key Insights
 - Sunrise Coffee achieved an overall revenue of £89.69M and total net profit of £16.88M, demonstrating strong business performance across the analyzed period.
 - Regional profitability varied, with Northern Ireland recording the highest net profit margin, while East of England and Yorkshire & Humber recorded the lowest margins, indicating potential areas for operational improvement.
