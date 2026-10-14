@@ -29,6 +29,8 @@ The analysis focuses on revenue performance, profitability, store performance, c
 To transform business data into actionable insights that support data-driven decision making.
 ## Dashboard Preview
 https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/0f61ff45175c02eab7b52e5b6358a0facc8e7d7c/executive%20-%20overview.png
+https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/23955f09813b8e027993e8c77ac9851071887b07/Coffee%20Store%20Dashboard.jpg
+
 
 
 ## Key Insights
