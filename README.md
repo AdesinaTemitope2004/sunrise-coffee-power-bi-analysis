@@ -28,6 +28,7 @@ The analysis focuses on revenue performance, profitability, store performance, c
 ## Project Objective
 To transform business data into actionable insights that support data-driven decision making.
 ## Dashboard Preview
+https://github.com/AdesinaTemitope2004/sunrise-coffee-power-bi-analysis/blob/0f61ff45175c02eab7b52e5b6358a0facc8e7d7c/executive%20-%20overview.png
 
 
 ## Key Insights
